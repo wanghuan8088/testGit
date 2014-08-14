@@ -3,5 +3,9 @@ a.txt file for add operate
 d
 local mod1
 
+<<<<<<< HEAD
 
 aaaaaaa
+=======
+bbbbb
+>>>>>>> refs/remotes/origin/master
