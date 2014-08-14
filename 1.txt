@@ -2,10 +2,6 @@ xaxm
 123
 456
 789
-<<<<<<< HEAD
-github mod
-local
-=======
 github mod
 github
->>>>>>> branch 'master' of https://github.com/wanghuan8086/testGit.git
+++++
