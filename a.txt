@@ -2,3 +2,5 @@ a.txt file for add operate
 123
 d
 local mod1
+
+bbbbb
