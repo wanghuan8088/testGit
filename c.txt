@@ -1,2 +1,7 @@
 c
 e
+<<<<<<< HEAD
+System.out.println("Hello egit");
+=======
+System.out.println("Hello github");
+>>>>>>> branch 'master' of https://github.com/wanghuan8086/testGit.git

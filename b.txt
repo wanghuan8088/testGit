@@ -1,3 +1,10 @@
-123
-456
-11
+<<<<<<< HEAD
+<<<<<<< HEAD
+11111
+=======
+11111
+>>>>>>> refs/remotes/origin/master
+=======
+11111
+>>>>>>> branch 'master' of https://github.com/wanghuan8086/testGit.git
+one
