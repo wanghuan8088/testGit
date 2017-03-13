@@ -3,3 +3,6 @@
 =======
 2
 >>>>>>> refs/remotes/origin/master
+
+http://139.224.220.112:8080/jzt-api/rest/v1/exposure/list/0/3
+
