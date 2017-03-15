@@ -8,4 +8,4 @@ local mod1
 aaaaaaa
 =======
 bbbbb
->>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master1. 答案缺少分布式高并发环境的思考，对于分布式系统，相同业务单元有很多机器一起运行，机器和机器之间显然不能通过线程锁来控制并发。2. 高并发环境数据读取要考虑分库分表问题， 否则请求所有请求都访问相同纪录， 容易造成DB热点。
